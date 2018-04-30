@@ -1,7 +1,7 @@
 # hello-world
-First time using github
+First time using Github!
 
-I am a student in ECE. 
+I'm a student in ECE.
 
 I needed to learn how to use GitHub to do a class this semester.
 
